@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://lovese.github.io/ksiaw",
+    "hubpress": "https://lovese.cn/ksiaw",
+    "theme": "//lovese.github.io/ksiaw/themes/casper",
+    "images": "https://lovese.github.io/ksiaw/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
